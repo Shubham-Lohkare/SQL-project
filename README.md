@@ -1,4 +1,4 @@
-#Music Store Data Analysis [SQl]
+Music Store Data Analysis [SQl]
 
 •	Analysed music store data on Postgresql by running different sets of queries that helps in understating business growth.
 
